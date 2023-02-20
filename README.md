@@ -1,21 +1,11 @@
-# coa0e40e294a5cb5f3f2ee834
+# Tally App
 
-Quick start:
+This is my second piece of real Javascript. Here I went one step beyond and implemented a for and else statement which determines who is the winning team. 
 
-```
-$ npm install
-$ npm start
-````
+Previously I only learn this as a concept with FreeCodeCamp and got blocked, so it's cool to have a real world example this time to write it with. 
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+![Screenshot](/Screenshot%202023-02-20%20at%2014.16.20.png)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Pushing
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+I'm also pushing and going back to the fundementals of GitHub. I've pushed and pulled already for a real world example by trial and error, so good to do this again as basic as it seems to make sure I'm not making any mistakes lol. Could be a life-saver in the future.
